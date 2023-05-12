@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aLJyp9MOL6+L1mk6UbgzEEEaWc0MtaSFRVKHd1Gib8egHXi2Ba4xGqT7WSUQQ0fIu6HvVg2DEXB/vaGeRiFiMw==",
+  "dgSpecHash": "k5rrafarHA01M9BEu7B6Q+buy+T2LrRgMgpX8LPczbe1VsWet9u6kr1nA/chrfjOZI/tZAvnD6rlOONfLcE3Sw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\AzureFunctionTangyWeb\\AzureFunctionTangyWeb\\AzureFunctionTangyWeb.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
